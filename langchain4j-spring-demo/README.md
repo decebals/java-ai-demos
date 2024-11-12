@@ -34,3 +34,10 @@ docker-compose -f langchain4j-spring-demo/docker/docker-compose.yml -p docker up
 Read [readme.txt](./docker/readme.txt) for more details.
 
 **Note**: Using LLAMA3 model requires more resources than OpenAI model. The answer may take longer time to generate.
+
+UI
+-----
+The UI is a simple HTML page that uses JavaScript to send the question to the server and display the answer.
+To keep the demo simple, the UI is generated using Thymeleaf template engine and Spring MVC (Server Side rendering).
+[HTMX](https://htmx.org/) is used to send the question to the server without refreshing the page (AJAX calls).
+However, you can use any front-end technology to create the UI.
