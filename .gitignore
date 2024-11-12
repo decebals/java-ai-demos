@@ -1,0 +1,4 @@
+.idea
+*.iml
+target/
+/langchain4j-spring-demo/docker/ollama/
