@@ -1,4 +1,4 @@
-package ai.demo.langchain4j.spring.demo;
+package ai.demos.langchain4j.spring;
 
 import io.github.wimdeblauwe.htmx.spring.boot.mvc.HtmxResponse;
 import io.github.wimdeblauwe.htmx.spring.boot.mvc.HxRequest;

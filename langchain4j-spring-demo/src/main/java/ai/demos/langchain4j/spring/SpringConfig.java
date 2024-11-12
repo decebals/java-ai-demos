@@ -1,4 +1,4 @@
-package ai.demo.langchain4j.spring.demo;
+package ai.demos.langchain4j.spring;
 
 import dev.langchain4j.memory.ChatMemory;
 import dev.langchain4j.memory.chat.MessageWindowChatMemory;

@@ -1,4 +1,4 @@
-package ai.demo.langchain4j.spring.demo;
+package ai.demos.langchain4j.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
