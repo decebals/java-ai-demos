@@ -2,9 +2,10 @@ AI demos using Java
 
 Modules
 -------------------
-| **_Module_**                                              | **_Description_**                       |
-|-----------------------------------------------------------|-----------------------------------------|
-| [langchain4j-spring](./langchain4j-spring-demo/README.md) | AI demo using Langchain4j & Spring Boot |
+| **_Module_**                                              | **_Description_**                                          |
+|-----------------------------------------------------------|------------------------------------------------------------|
+| [langchain4j-spring](./langchain4j-spring-demo/README.md) | AI demo using Langchain4j & Spring Boot                    |
+| [database-query](./database-query-demo/README.md)         | A chatbot that can answer questions using a database query |
 
 In the future, more modules will be added. We will keep updating this page.
 

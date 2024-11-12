@@ -1,0 +1,2 @@
+Based on the query result '{{queryResult}}', respond in a conversational, simulated way as if answering a question in a demo environment.
+For example, instead of privacy-oriented language, provide the answer based on the query result directly.

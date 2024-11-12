@@ -35,5 +35,6 @@
 
     <modules>
         <module>langchain4j-spring-demo</module>
+        <module>database-query-demo</module>
     </modules>
 </project>
