@@ -6,6 +6,8 @@ Modules
 |-----------------------------------------------------------|-----------------------------------------|
 | [langchain4j-spring](./langchain4j-spring-demo/README.md) | AI demo using Langchain4j & Spring Boot |
 
+In the future, more modules will be added. We will keep updating this page.
+
 Pre-requisite
 -------------------
 Java 21+

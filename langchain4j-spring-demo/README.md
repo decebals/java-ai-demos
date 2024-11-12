@@ -18,6 +18,9 @@ How to use OpenAI model
 7. Ask questions to the chatbot
 8. The chatbot will answer the questions using OpenAI model
 
+**Note**: You need to have a subscription to OpenAI to use the OpenAI model. 
+The free tier allows you to make 100,000 tokens per month (I think).
+
 How to use LLAMA3 model
 -------------------------
 1. Use docker to run the LLAMA3 model
@@ -34,6 +37,15 @@ docker-compose -f langchain4j-spring-demo/docker/docker-compose.yml -p docker up
 Read [readme.txt](./docker/readme.txt) for more details.
 
 **Note**: Using LLAMA3 model requires more resources than OpenAI model. The answer may take longer time to generate.
+A solution is to use a more powerful machine or use a cloud service like AWS, GCP, or Azure.
+Another solution is to use a smaller model like GPT-2.
+
+What the demo doesn't cover (out of scope)
+------------------------------------------
+- Authentication
+- Conversation history (persistent storage)
+- Multiple users
+- Metrics (time taken to answer, chatbot performance, cost - for a model hosted in cloud, etc.)
 
 UI
 -----
