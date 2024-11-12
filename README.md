@@ -2,10 +2,9 @@ AI demos using Java
 
 Modules
 -------------------
-| **_Module_**                                      | **_Description_**                       |
-|---------------------------------------------------|-----------------------------------------|
-| [langchain4j & spring](./langchain4j-spring-demo) | AI demo using Langchain4j & Spring Boot |
-
+| **_Module_**                                              | **_Description_**                       |
+|-----------------------------------------------------------|-----------------------------------------|
+| [langchain4j-spring](./langchain4j-spring-demo/README.md) | AI demo using Langchain4j & Spring Boot |
 
 Pre-requisite
 -------------------
