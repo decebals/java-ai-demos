@@ -36,6 +36,12 @@ ai.demos.database.query.ChatController   : sql = SELECT COUNT(*) FROM customers;
 ai.demos.database.query.ChatController   : htmlResponse = <p>There is 1 customer in the database.</p>
  ```
 
+Database
+--------
+The database used in this demo is an in-memory H2 database.<br>
+At the start of the application, the database is populated with some sample data.<br>
+The sample data are defined in the `src/resources/data.sql` file.
+
 Personal data
 --------------------------------
 The database used in this demo contains personal data (like names and emails).<br>
